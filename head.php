@@ -7,4 +7,5 @@ $i=0;
 		i++;
 	}
 //print a salutation
+echo $i+3;
 ?>
