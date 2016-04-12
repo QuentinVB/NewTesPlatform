@@ -14,4 +14,5 @@ while($j<100)
 }
 ?>
 A la folie :$
+Il faut te hater !
 </p>
