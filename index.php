@@ -7,13 +7,19 @@
 </head>
 <body>
 	<div id="header">
-		<?php ?>
+		<?php 
+			include("header.php");
+		?>
 	</div>
 	<div id="body">
-		<?php ?>
+		<?php 
+			include("body.php");
+		?>
 	</div>
 	<div id="body">
-		<?php ?>
+		<?php 
+			include("footer.php");
+		?>
 	</div>
 </body>
 </html>
