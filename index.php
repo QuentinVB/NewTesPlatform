@@ -24,5 +24,6 @@
 			include("footer.php");
 		?>
 	</div>
+	<!--PENSER A COMMITER !-->
 </body>
 </html>
