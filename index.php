@@ -3,14 +3,17 @@
 ?>
 <html>
 <head>
-	<title>This is a title</title>
+	<title>This is a title, hello world</title>
 </head>
 <body>
-	<p>
-		Hello World !
-	</p>
-	<p id="body">
-
-	</p>
+	<div id="header">
+		<?php ?>
+	</div>
+	<div id="body">
+		<?php ?>
+	</div>
+	<div id="body">
+		<?php ?>
+	</div>
 </body>
 </html>
