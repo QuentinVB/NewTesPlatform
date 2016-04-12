@@ -13,4 +13,5 @@ while($j<100)
 	j++;
 }
 ?>
+A la folie :$
 </p>
